@@ -8,7 +8,9 @@ Dark Poole is a permanent dark theme of the Poole theme by [@mdo](https://github
 - I also got rid of the "tagline" in the navbar. I think it looks cleaner without it.
 - Finally, I changed the default font size to 20px. I have 20/20 vision and still thought the original font size was too small.
 
-That's it! I tried to be least intrusive as possible to the Poole code base.
+~~That's it! I tried to be least intrusive as possible to the Poole code base.~~
+
+I am a dead fish, intrusive is my middle name. `DxH <x))><`
 
 **I noticed that Poole's documentation is slightly outdated and misleading. This documentation will try to address most, if not all, of these issues.**
 

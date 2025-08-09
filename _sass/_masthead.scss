@@ -3,9 +3,13 @@
 // Super small header above the content for site name and short description.
 
 .masthead {
+  display:flex;
   padding-top: var(--spacer);
   padding-bottom: var(--spacer);
   margin-bottom: var(--spacer-3);
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
 }
 
 .masthead-title {
