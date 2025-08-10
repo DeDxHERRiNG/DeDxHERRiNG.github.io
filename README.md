@@ -5,22 +5,20 @@
 <pre align="center"><code align="center">x I would swim if I wasn't dead x
 &lt;DeDxHERRiNG&gt;</code></pre>
 
-# Forked Poole
+# Forked Poole Theme
 
 <img title="Death by Herring" src="assets/Angelo-Gemmi-fork-1.svg" alt="DeDxHERRiNG" height="300" />
 
 This is a [fork](andrewhwanpark/dark-poole) of a [fork](https://github.com/mdo/poole) of a [fork](https://github.com/poole/poole).
 
-## Original Poole Author
+## Original Poole Theme Author
 
 **Mark Otto**
 
 - <https://github.com/mdo>
 - <https://twitter.com/mdo>
 
-## License
-
-**Poole Jekyll Theme**
+## Poole Theme License
 
 Open sourced under the [MIT license](LICENSE.md).
 
