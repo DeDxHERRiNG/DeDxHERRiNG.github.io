@@ -20,6 +20,15 @@ This is a [fork](andrewhwanpark/dark-poole) of a [fork](https://github.com/mdo/p
 
 ## License
 
+**Poole Jekyll Theme**
+
 Open sourced under the [MIT license](LICENSE.md).
 
 <3
+
+## Copyright
+
+<pre align="center"><code align="center">(c) 2025 &lt;DeDxHERRiNG&gt; and others.
+Credit due is where credit is due.
+All rights reserved.</code></pre>
+
