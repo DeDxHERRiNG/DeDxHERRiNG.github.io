@@ -11,7 +11,7 @@
 
 This is a [fork](andrewhwanpark/dark-poole) of a [fork](https://github.com/mdo/poole) of a [fork](https://github.com/poole/poole).
 
-## Original Author
+## Original Poole Author
 
 **Mark Otto**
 
