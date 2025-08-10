@@ -5,9 +5,11 @@
 
 .pagination {
   display: flex;
-  margin: 0 -1.5rem var(--spacer);
+  margin: 0 0 var(--spacer);
   color: grey;
   text-align: center;
+  justify-content: flex-end;
+    align-items: center;
 }
 
 // Pagination items can be `span`s or `a`s
@@ -16,10 +18,14 @@
   padding: var(--spacer);
   text-decoration: none;
   border: solid var(--border-color);
-  border-width: 1px 0;
+  border-width: 1px 1px  1px 0 ;
+  width:50%;
 
   &:first-child {
-    margin-bottom: -1px;
+     border-width: 1px;
+  }
+  &:not(a) {
+    cursor: not-allowed;
   }
 }
 
@@ -28,25 +34,4 @@ a.pagination-item:hover {
   background-color: var(--border-color);
 }
 
-@media (min-width: 30em) {
-  .pagination {
-    margin: var(--spacer-3) 0;
-  }
 
-  .pagination-item {
-    float: left;
-    width: 50%;
-    border-width: 1px;
-
-    &:first-child {
-      margin-bottom: 0;
-      border-top-left-radius: var(--border-radius);
-      border-bottom-left-radius: var(--border-radius);
-    }
-    &:last-child {
-      margin-left: -1px;
-      border-top-right-radius: var(--border-radius);
-      border-bottom-right-radius: var(--border-radius);
-    }
-  }
-}

@@ -61,16 +61,12 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --body-color: var(--gray-300);
-    --body-bg: var(--gray-800);
-
-    --heading-color: #fff;
-
-    --link-color: var(--blue-300);
-    --link-hover-color: var(--blue-400);
-
+    --body-color: var(--dark-poole-002);
+    --body-bg: var(--ded-herring-darker);
+    --heading-color: var(--dark-poole-002);
+    --link-color: var(--dark-poole-link-color);
+    --link-hover-color: var(--dark-poole-link-hover);
     --border-color: rgba(255, 255, 255, 0.15);
-
     --code-bg: var(--gray-900);
   }
 }
